@@ -35,5 +35,4 @@ Firstly,
 ![image](https://user-images.githubusercontent.com/94509043/234406411-6509e52f-d400-4983-b6ca-16dede6adfb5.png)
 BOOM! you're done just make sure the playit software is running and the python script is running, with this you can go into game and see your desktop at like 1 fps lol
 ![image](https://user-images.githubusercontent.com/94509043/234406957-5c53c75f-ff0b-41d1-810e-73c49acdf2e1.png)
-
-![video](https://gyazo.com/8cd2c79d77e16c1ae773d24e3e4cf56d.mp4)
+https://gyazo.com/8cd2c79d77e16c1ae773d24e3e4cf56d.mp4
