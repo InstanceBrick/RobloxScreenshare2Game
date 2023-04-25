@@ -8,3 +8,4 @@ hashbmo : Original Code - https://github.com/hashbmo/rbx-py-screen-render
 Ethanthegrand14 : Canvas Draw Module - https://devforum.roblox.com/t/canvasdraw-a-powerful-pixel-based-graphics-engine-draw-pixels-lines-triangles-read-png-image-data-and-much-more/1624633
 -
 Instance_Brick (Me!) : Edited code and optimizations
+-
