@@ -4,7 +4,7 @@ from http.server import HTTPServer, BaseHTTPRequestHandler
 
 HOST = "127.0.0.1" # Dont change this unless you're doing something different
 PORT = 23935 # Input your port here!
-# This is basically all 
+# This is basically all hashbmo's code so big thanks yes :)
 # I'll probably implement chunking frames at some point if I really feel like it
 class HTTP(BaseHTTPRequestHandler):
     def do_GET(self):
