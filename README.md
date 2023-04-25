@@ -1,5 +1,6 @@
 # RobloxScreenshare2Game
 Allows you to Screenshare your entire Desktop into a Roblox game.
+I AM NOT RESPONSIBLE FOR ANYTHING BAD DONE WITH THIS!
 
 You are allowed to modify, edit, add anything you want to this project I honestly don't care. Just make sure you credit these awesome people:
 -
@@ -18,7 +19,7 @@ First you need to setup all that mumbo jumbo which is rather easy.
 - Insert server.py into your IDE of choice, install the dependancies and run it
 (This in itself should work perfectly fine.)
 
-HOWEVER, I assume you are all here for use in public servers. (PLEASE DONT USE THIS TO SHOW ANYTHING AGAINST ROBLOX TOS, I AM NOT RESPONSEABLE IF THIS HAPPENS!)
+HOWEVER, I assume you are all here for use in public servers. (PLEASE DONT USE THIS TO SHOW ANYTHING AGAINST ROBLOX TOS, I AM NOT RESPONSIBLE IF THIS HAPPENS!)
 You can technically use port forwarding but im not really going to go into that right now.
 
 Firstly,
