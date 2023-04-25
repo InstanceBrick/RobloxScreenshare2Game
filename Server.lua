@@ -16,7 +16,7 @@ local function GetPixelXY(Number,w,h)
 	return Vector2.new(Number%w,Number/h/2) -- Not 100% sure if this math is correct lol
 end
 
-task.desynchronize() -- pls roblox make parrallel lua better pls!!!!!!
+task.desynchronize() -- pls roblox make parallel lua better pls!!!!!!
 while true do -- while true loop 💀💀💀💀💀💀💀💀💀
 	--// Get image data from server
 	local s,e = pcall(function()
