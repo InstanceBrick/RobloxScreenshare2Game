@@ -1,4 +1,5 @@
--- A slightly faster alternative to Server.lua
+-- A slightly faster alternative to Server.lua 
+-- Pretty much stores Frame data in a table then plays them back in order for a slightly higher FPS but increases latency
 local http = game:GetService("HttpService")
 
 local screen = workspace:WaitForChild("Screen")
