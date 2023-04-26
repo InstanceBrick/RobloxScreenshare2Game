@@ -14,7 +14,7 @@ How to use!
 -
 Currently the scripts are set up to run on your localhost, this works but not if you wanna run it in public servers for all to see!
 First you need to setup all that mumbo jumbo which is rather easy.
-- Insert Server.lua into ServerScriptService in Roblox Studio
+- Insert Server.lua or FrameStackerServer.lua into ServerScriptService in Roblox Studio
 - Insert Screen.rbxm into Workspace
 - Insert server.py into your IDE of choice, install the dependancies and run it
 (This in itself should work perfectly fine.)
