@@ -4,7 +4,7 @@ local http = game:GetService("HttpService")
 
 local screen = workspace:WaitForChild("Screen")
 local disp = screen:WaitForChild("Display")
-local CanvasDraw = require(script:WaitForChild("CanvasDraw"))
+local CanvasDraw = require(script:WaitForChild("CanvasDraw")) -- Download this here https://www.roblox.com/library/13252615540/CanvasDraw-Edited 
 
 local PORT = 23935 -- Your port goes here ofc
 local finished = false -- Top tier scripting am I right?
